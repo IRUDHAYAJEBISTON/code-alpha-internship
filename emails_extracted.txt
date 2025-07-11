@@ -1,0 +1,4 @@
+support@example.com
+john.doe123@gmail.com
+jane_doe@company.co.uk.
+info@old-domain.org
